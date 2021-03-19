@@ -1,0 +1,227 @@
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-kmjx",{"micros":57225,"calls":["discord-sessions-prd-2-117",{"micros":55273,"calls":["start_session",{"micros":47313,"calls":["api-prd-main-vw44",{"micros":43900,"calls":["get_user",{"micros":2922},"add_authorized_ip",{"micros":11283},"get_guilds",{"micros":8524},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 6c0e7a41e91ca51765cf02387818350b).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-vdgj",{"micros":116718,"calls":["discord-sessions-prd-2-10",{"micros":114716,"calls":["start_session",{"micros":73977,"calls":["api-prd-main-pbk7",{"micros":70081,"calls":["get_user",{"micros":2930},"add_authorized_ip",{"micros":3971},"get_guilds",{"micros":11590},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":32688,"calls":[]}]}]}] (Session ID: c6a629260f93c4c2a34edcf16a5806dc).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-swbt",{"micros":36980,"calls":["discord-sessions-prd-2-135",{"micros":36338,"calls":["start_session",{"micros":33407,"calls":["api-prd-main-w3jg",{"micros":30482,"calls":["get_user",{"micros":2715},"add_authorized_ip",{"micros":1424},"get_guilds",{"micros":11589},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 0ef7a4757be102925b22e666b3b7b780).
+Received signal to terminate bot and event loop.
+Cleaning up tasks.
+Cleaning up after 1 tasks.
+All tasks finished cancelling.
+Closing the event loop.
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-6t4s",{"micros":85930,"calls":["discord-sessions-prd-2-22",{"micros":83806,"calls":["start_session",{"micros":30264,"calls":["api-prd-main-jdng",{"micros":26959,"calls":["get_user",{"micros":2644},"add_authorized_ip",{"micros":1427},"get_guilds",{"micros":4862},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":39097,"calls":[]}]}]}] (Session ID: add222923f830b648420b694e39b3b86).
+Received signal to terminate bot and event loop.
+Cleaning up tasks.
+Cleaning up after 1 tasks.
+All tasks finished cancelling.
+Closing the event loop.
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-6rz6",{"micros":99489,"calls":["discord-sessions-prd-2-27",{"micros":96343,"calls":["start_session",{"micros":41426,"calls":["api-prd-main-xpnz",{"micros":38542,"calls":["get_user",{"micros":2569},"add_authorized_ip",{"micros":4082},"get_guilds",{"micros":7760},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":40583,"calls":[]}]}]}] (Session ID: 587a5384730871873bb05131d8c13ec2).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-gznd",{"micros":109687,"calls":["discord-sessions-prd-2-146",{"micros":106459,"calls":["start_session",{"micros":39590,"calls":["api-prd-main-pxsp",{"micros":35707,"calls":["get_user",{"micros":2748},"add_authorized_ip",{"micros":1462},"get_guilds",{"micros":8454},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":28273,"calls":[]}]}]}] (Session ID: 08c28814bcbeda98b0653ea07dba7d9f).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-b5tn",{"micros":92578,"calls":["discord-sessions-prd-2-56",{"micros":90802,"calls":["start_session",{"micros":30065,"calls":["api-prd-main-g8sc",{"micros":26977,"calls":["get_user",{"micros":2614},"add_authorized_ip",{"micros":1377},"get_guilds",{"micros":4451},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":51048,"calls":[]}]}]}] (Session ID: 30b039f51f9ca80878f1cacfb43f346a).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-qfvk",{"micros":50542,"calls":["discord-sessions-prd-2-46",{"micros":47949,"calls":["start_session",{"micros":23348,"calls":["api-prd-main-v0cs",{"micros":21312,"calls":["get_user",{"micros":1879},"add_authorized_ip",{"micros":1214},"get_guilds",{"micros":3515},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14745,"calls":[]}]}]}] (Session ID: 7aaf9ba4cc1a758cf34184e0b7349b3f).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-fl4v",{"micros":34906,"calls":["discord-sessions-prd-2-140",{"micros":32727,"calls":["start_session",{"micros":30298,"calls":["api-prd-main-b8s6",{"micros":27603,"calls":["get_user",{"micros":2590},"add_authorized_ip",{"micros":1591},"get_guilds",{"micros":4313},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 06a5d52ed7ac186bd32b8c1226f5e470).
+Got a request to RESUME the websocket.
+Shard ID None has sent the RESUME payload.
+Shard ID None has successfully RESUMED session c6a629260f93c4c2a34edcf16a5806dc under trace ["gateway-prd-main-b5rk",{"micros":7237,"calls":["discord-sessions-prd-2-10",{"micros":16}]}].
+Got a request to RESUME the websocket.
+Shard ID None has sent the RESUME payload.
+Shard ID None has successfully RESUMED session 06a5d52ed7ac186bd32b8c1226f5e470 under trace ["gateway-prd-main-j10d",{"micros":3448,"calls":["discord-sessions-prd-2-140",{"micros":21}]}].
+Got a request to RESUME the websocket.
+Shard ID None has sent the RESUME payload.
+Shard ID None has successfully RESUMED session c6a629260f93c4c2a34edcf16a5806dc under trace ["gateway-prd-main-rlh2",{"micros":856,"calls":["discord-sessions-prd-2-10",{"micros":22}]}].
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Disconnected from voice by force... potentially reconnecting.
+Starting voice handshake... (connection attempt 2)
+Voice handshake complete. Endpoint found south-korea1055.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+Reconnect was unsuccessful, disconnecting from voice normally...
+Shard ID None has stopped responding to the gateway. Closing and restarting.
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-lg64",{"micros":37755,"calls":["discord-sessions-prd-2-91",{"micros":36167,"calls":["start_session",{"micros":22740,"calls":["api-prd-main-n2x4",{"micros":20746,"calls":["get_user",{"micros":1795},"add_authorized_ip",{"micros":1372},"get_guilds",{"micros":3818},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: b8cddeb10ff58240bb74dbcaaecc3358).
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-z6kj",{"micros":68579,"calls":["discord-sessions-prd-2-130",{"micros":67678,"calls":["start_session",{"micros":47055,"calls":["api-prd-main-mc1b",{"micros":44199,"calls":["get_user",{"micros":2666},"add_authorized_ip",{"micros":5762},"get_guilds",{"micros":5271},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":16429,"calls":[]}]}]}] (Session ID: 64f5cbb05b61a36eddf6ab96ea1025b0).
+Disconnected from voice by force... potentially reconnecting.
+Starting voice handshake... (connection attempt 2)
+Voice handshake complete. Endpoint found south-korea1009.discord.media
+Reconnect was unsuccessful, disconnecting from voice normally...
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Preparing to terminate ffmpeg process 22788.
+ffmpeg process 22788 has not terminated. Waiting to terminate...
+ffmpeg process 22788 should have terminated with a return code of 1.
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Disconnecting from voice normally, close code 1000.
+Preparing to terminate ffmpeg process 25096.
+ffmpeg process 25096 has not terminated. Waiting to terminate...
+ffmpeg process 25096 should have terminated with a return code of 1.
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Shard ID None has stopped responding to the gateway. Closing and restarting.
+Preparing to terminate ffmpeg process 12044.
+ffmpeg process 12044 successfully terminated with return code of 1.
+Preparing to terminate ffmpeg process 24876.
+ffmpeg process 24876 has not terminated. Waiting to terminate...
+ffmpeg process 24876 should have terminated with a return code of 1.
+Preparing to terminate ffmpeg process 25500.
+ffmpeg process 25500 successfully terminated with return code of 1.
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Disconnecting from voice normally, close code 1000.
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Preparing to terminate ffmpeg process 23276.
+ffmpeg process 23276 has not terminated. Waiting to terminate...
+ffmpeg process 23276 should have terminated with a return code of 1.
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Disconnecting from voice normally, close code 1000.
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Disconnecting from voice normally, close code 1000.
+Preparing to terminate ffmpeg process 24372.
+ffmpeg process 24372 has not terminated. Waiting to terminate...
+ffmpeg process 24372 should have terminated with a return code of 1.
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Disconnected from voice by force... potentially reconnecting.
+Starting voice handshake... (connection attempt 2)
+Preparing to terminate ffmpeg process 23328.
+ffmpeg process 23328 has not terminated. Waiting to terminate...
+ffmpeg process 23328 should have terminated with a return code of 1.
+Shard ID None has stopped responding to the gateway. Closing and restarting.
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Reconnect was unsuccessful, disconnecting from voice normally...
+Preparing to terminate ffmpeg process 25316.
+ffmpeg process 25316 has not terminated. Waiting to terminate...
+ffmpeg process 25316 should have terminated with a return code of 1.
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Preparing to terminate ffmpeg process 17624.
+ffmpeg process 17624 has not terminated. Waiting to terminate...
+ffmpeg process 17624 should have terminated with a return code of 1.
+Preparing to terminate ffmpeg process 24604.
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Disconnecting from voice normally, close code 1000.
+ffmpeg process 24604 has not terminated. Waiting to terminate...
+ffmpeg process 24604 should have terminated with a return code of 1.
+Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\kimjw\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\player.py", line 616, in _call_after
+    self.after(error)
+  File "C:\Users\kimjw\Downloads\10\bot.py", line 36, in <lambda>
+    music, after=lambda _e: self.after_music_finished(ctx.guild.id)
+  File "C:\Users\kimjw\Downloads\10\bot.py", line 57, in after_music_finished
+    self.players[guild_id]["voice_client"].play(
+  File "C:\Users\kimjw\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\voice_client.py", line 555, in play
+    raise ClientException('Not connected to voice.')
+discord.errors.ClientException: Not connected to voice.
+Preparing to terminate ffmpeg process 23328.
+ffmpeg process 23328 has not terminated. Waiting to terminate...
+ffmpeg process 23328 should have terminated with a return code of 1.
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Disconnected from voice by force... potentially reconnecting.
+Starting voice handshake... (connection attempt 2)
+Shard ID None has stopped responding to the gateway. Closing and restarting.
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Reconnect was unsuccessful, disconnecting from voice normally...
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Preparing to terminate ffmpeg process 24508.
+ffmpeg process 24508 has not terminated. Waiting to terminate...
+ffmpeg process 24508 should have terminated with a return code of 1.
+The voice handshake is being terminated for Channel ID 801461013840658432 (Guild ID 710478182238781520)
+Disconnecting from voice normally, close code 1000.
+Preparing to terminate ffmpeg process 27272.
+ffmpeg process 27272 has not terminated. Waiting to terminate...
+ffmpeg process 27272 should have terminated with a return code of 1.
+Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\kimjw\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\player.py", line 616, in _call_after
+    self.after(error)
+  File "C:\Users\kimjw\Downloads\10\bot.py", line 36, in <lambda>
+    music, after=lambda _e: self.after_music_finished(ctx.guild.id)
+  File "C:\Users\kimjw\Downloads\10\bot.py", line 57, in after_music_finished
+    self.players[guild_id]["voice_client"].play(
+  File "C:\Users\kimjw\AppData\Local\Programs\Python\Python39\lib\site-packages\discord\voice_client.py", line 555, in play
+    raise ClientException('Not connected to voice.')
+discord.errors.ClientException: Not connected to voice.
+Preparing to terminate ffmpeg process 26184.
+ffmpeg process 26184 has not terminated. Waiting to terminate...
+ffmpeg process 26184 should have terminated with a return code of 1.
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Preparing to terminate ffmpeg process 24500.
+ffmpeg process 24500 has not terminated. Waiting to terminate...
+ffmpeg process 24500 should have terminated with a return code of 1.
+Preparing to terminate ffmpeg process 26808.
+ffmpeg process 26808 has not terminated. Waiting to terminate...
+ffmpeg process 26808 should have terminated with a return code of 1.
+Preparing to terminate ffmpeg process 26608.
+ffmpeg process 26608 has not terminated. Waiting to terminate...
+ffmpeg process 26608 should have terminated with a return code of 1.
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-nw97",{"micros":49904,"calls":["discord-sessions-prd-2-8",{"micros":48149,"calls":["start_session",{"micros":29884,"calls":["api-prd-main-s8jf",{"micros":27039,"calls":["get_user",{"micros":2409},"add_authorized_ip",{"micros":1403},"get_guilds",{"micros":4318},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14415,"calls":[]}]}]}] (Session ID: b9f726f8c6c97ca14267fc8b37f48517).
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1036.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
+Preparing to terminate ffmpeg process 24720.
+ffmpeg process 24720 has not terminated. Waiting to terminate...
+ffmpeg process 24720 should have terminated with a return code of 1.
+Preparing to terminate ffmpeg process 24072.
+ffmpeg process 24072 successfully terminated with return code of 0.
